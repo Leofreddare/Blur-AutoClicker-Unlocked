@@ -10,8 +10,6 @@
   
 
   # Unlocked Blur Auto Clicker
-> [!TIP]
-> ✅ **Unlocked Blur AutoClicker** unlocks Blur AutoClicker from the default **500 CPS limit** to **unlimited CPS**.
 
   <img src="https://github.com/Blur009/Blur-AutoClicker/blob/main/public/V3.0.0_UI.png" width="600"/>
 
@@ -31,6 +29,9 @@
   
 
 </div>
+
+> [!TIP]
+> ✅ **Unlocked Blur AutoClicker** unlocks Blur AutoClicker from the default **500 CPS limit** to **unlimited CPS**.
 
 ---
 Most auto clickers aren't accurate at high speeds. Set it to 50 CPS and you might get 40. Or 60. This one actually hits the speed you set. It also bundles the useful features from other auto clickers into one place, and adds a few extras. RAM is around 100mb and stays under 200mb (yes its a lot but sadly it cant be reduced due to Webview2).
