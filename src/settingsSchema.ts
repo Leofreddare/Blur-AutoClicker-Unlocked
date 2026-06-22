@@ -26,10 +26,10 @@ export interface SequencePoint {
 }
 
 export const DEFAULT_ACCENT_COLOR = "#22c55e";
-export const MAX_PRESETS = 20;
-export const PRESET_NAME_MAX_LENGTH = 40;
-export const DEFAULT_MAX_CLICK_SPEED = 500;
-export const EXTENDED_MAX_CLICK_SPEED = 1000;
+export const MAX_PRESETS = -1;
+export const PRESET_NAME_MAX_LENGTH = -1;
+export const DEFAULT_MAX_CLICK_SPEED = -1;
+export const EXTENDED_MAX_CLICK_SPEED = -1;
 
 export const CLICK_INTERVAL_OPTIONS = [
   { value: "s", label: "Second" },
